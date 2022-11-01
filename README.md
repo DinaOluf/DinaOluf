@@ -5,8 +5,8 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on becoming a Frontend Developer
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about design
+- 🌱 I’m currently learning E2E Testing!
+- 💬 Ask me about Design
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dina-olufsen-42922721a/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can do a backflip
