@@ -5,7 +5,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on becoming a Frontend Developer
-- 🌱 I’m currently learning Unit and E2E Testing!
+- 🌱 I’m currently learning about Development Platforms!
 - 💬 Ask me about Design
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dina-olufsen-42922721a/)
 - 😄 Pronouns: She/Her
