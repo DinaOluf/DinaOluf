@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning more about PHP!
+- 🔭 I’m currently working on expanding my library
+- 🌱 I’m currently learning more about Svelte and Firebase!
 - 💬 Ask me about Design
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dina-olufsen-42922721a/)
 - 😄 Pronouns: She/Her
